@@ -1,3 +1,9 @@
+/*
+    Author: Sarthaki Bhoir
+    Project: ThreadPool Implementation
+    Language: C++17
+    Concepts: RAII, Multithreading, Perfect Forwarding
+*/
 #include<iostream>
 #include<vector>
 #include<queue>
